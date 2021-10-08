@@ -8,12 +8,36 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@mediapipe/camera_utils": "^0.3.1632432234",
+    "@mediapipe/drawing_utils": "^0.3.1620248257",
+    "@mediapipe/pose": "^0.4.1630009814",
+    "@react-native-async-storage/async-storage": "^1.15.8",
+    "@react-navigation/drawer": "^6.1.6",
+    "@react-navigation/stack": "^6.0.7",
+    "@teachablemachine/pose": "^0.8.6",
+    "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensorflow/tfjs": "^3.9.0",
+    "@tensorflow/tfjs-react-native": "^0.7.0",
     "expo": "~42.0.1",
+    "expo-app-loading": "^1.1.2",
+    "expo-font": "^9.2.1",
+    "expo-gl": "^10.4.2",
     "expo-status-bar": "~1.0.4",
+    "formik": "^2.2.9",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
-    "react-native-web": "~0.13.12"
+    "react-native-fs": "^2.18.0",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-pose": "^0.9.1",
+    "react-native-reanimated": "^1.13.1",
+    "react-native-screens": "^3.8.0",
+    "react-native-web": "~0.13.12",
+    "react-navigation": "^4.4.4",
+    "react-navigation-drawer": "^2.7.1",
+    "react-navigation-stack": "^2.10.4",
+    "react-webcam": "^6.0.0",
+    "yup": "^0.32.9"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
